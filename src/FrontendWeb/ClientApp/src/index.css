@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.icon-increase {
+  color: #5CB85C;
+}
+
+.icon-decrease {
+  color: #EE3333;
+}
+
+.icon-no-change {
+  color: #7E7E7E;
+}

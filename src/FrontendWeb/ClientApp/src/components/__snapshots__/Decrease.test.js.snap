@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Decrease :: should render with correct class 1`] = `
+<span
+  aria-hidden="true"
+  className="glyphicon glyphicon-arrow-down icon-decrease"
+  style={
+    Object {
+      "paddingLeft": "5px",
+      "paddingRight": "5px",
+    }
+  }
+/>
+`;
